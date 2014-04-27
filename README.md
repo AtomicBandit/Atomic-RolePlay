@@ -1,4 +1,3 @@
 Atomic-RolePlay
 ===============
-
-Arma 3 Gamemode
+Atomic Roleplay is a Arma 3 gamemode based off of the Fallout series, and the Atlis Life, and Wasteland gamemodes. 
